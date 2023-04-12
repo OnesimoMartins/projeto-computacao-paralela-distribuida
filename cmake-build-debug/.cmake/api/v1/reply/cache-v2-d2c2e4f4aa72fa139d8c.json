@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/marti/CLionProjects/CPD/cmake-build-debug"
+			"value" : "c:/Users/marti/Java/Projectos/Isptec/CPD/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/marti/CLionProjects/CPD"
+			"value" : "C:/Users/marti/Java/Projectos/Isptec/CPD"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/marti/CLionProjects/CPD/cmake-build-debug"
+			"value" : "C:/Users/marti/Java/Projectos/Isptec/CPD/cmake-build-debug"
 		},
 		{
 			"name" : "CPD_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/marti/CLionProjects/CPD"
+			"value" : "C:/Users/marti/Java/Projectos/Isptec/CPD"
 		}
 	],
 	"kind" : "cache",

@@ -1,3 +1,0 @@
-C:/Users/marti/Java/Projectos/Isptec/CPD/cmake-build-debug/CMakeFiles/CPD.dir
-C:/Users/marti/Java/Projectos/Isptec/CPD/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/marti/Java/Projectos/Isptec/CPD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
